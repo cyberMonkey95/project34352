@@ -1,0 +1,13 @@
+{
+	"devices": {
+	 "rest:10.0.0.1:5000":{
+	  "rest": {
+	   "username":"onos",
+	   "password":"rocks",
+	   "ip":"10.0.0.1",
+	   "port":5000,
+	   "url":"/"
+	   }
+	 }
+	}
+}
